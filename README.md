@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -132,7 +134,7 @@ textarea{height:80px; resize:none;}
 <!-- WHATSAPP -->
 <div class="box">
 💬 WhatsApp
-<a href="https://wa.me/923085772129" target="_blank">Chat</a>
+<a href="https://wa.me/923138983870" target="_blank">Chat</a>
 </div>
 
 <!-- EMAIL -->
